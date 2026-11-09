@@ -2,7 +2,7 @@
 
 Ferramenta em Python que traduz automaticamente, com IA (DeepSeek), os arquivos de localização do mod **Greater Flavor Mod (GFM)** de **Victoria 2** para **português do Brasil**, sem quebrar o formato do jogo.
 
-> **Aviso importante:** este repositório contém **apenas a ferramenta**. Ele **não distribui** arquivos do GFM. Veja [Aviso legal](#aviso-legal).
+> **Aviso importante:** este repositório contém **apenas a ferramenta** e a tradução. Ele **não distribui** arquivos do GFM. Veja [Aviso legal](#aviso-legal).
 
 ---
 
@@ -187,9 +187,9 @@ Tudo fica no topo de `gfm_translate_deepseek.py`:
 
 ## Aviso legal
 
-- Este projeto **não é afiliado** à Paradox Interactive, aos autores do Greater Flavor Mod nem à DeepSeek.
-- O texto do GFM pertence aos seus autores. As traduções geradas e o arquivo de cache são **obras derivadas** desse texto: **não os publique** sem a autorização dos autores do mod. Por isso o `.gitignore` os exclui.
-- A tradução é feita por IA e pode conter erros, inconsistências de nomenclatura e problemas de encaixe na interface. Revise antes de distribuir.
+- Este projeto **não é afiliado** à Paradox Interactive.
+- O texto do GFM pertence aos seus autores.
+- A tradução é feita por IA e pode conter erros, inconsistências de nomenclatura e problemas de encaixe na interface. Atualizações, correções e ajustes serão feitas no decorrer dos dias.
 - O código desta ferramenta é licenciado sob a [licença MIT](LICENSE).
 
 ## Estrutura do repositório
@@ -197,7 +197,6 @@ Tudo fica no topo de `gfm_translate_deepseek.py`:
 ```
 .
 ├── gfm_translate_deepseek.py   # ferramenta principal
-├── diagnostico_artigos.py      # verifica nomes que ainda começam com artigo
 ├── tests/                      # testes (pytest), sem chamadas à API
 ├── .env.example                # modelo de configuração
 ├── requirements.txt            # dependências
