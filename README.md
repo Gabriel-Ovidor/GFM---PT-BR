@@ -2,7 +2,7 @@
 
 Ferramenta em Python que traduz automaticamente, com IA (DeepSeek), os arquivos de localização do mod **Greater Flavor Mod (GFM)** de **Victoria 2** para **português do Brasil**, sem quebrar o formato do jogo.
 
-> **Aviso importante:** este repositório contém **apenas a ferramenta**. Ele **não distribui** arquivos do GFM nem as traduções geradas. Você precisa ter o mod instalado (por exemplo, via Steam Workshop) e rodar o script na sua máquina. Veja [Aviso legal](#aviso-legal).
+> **Aviso importante:** este repositório contém **apenas a ferramenta**. Ele **não distribui** arquivos do GFM. Veja [Aviso legal](#aviso-legal).
 
 ---
 
