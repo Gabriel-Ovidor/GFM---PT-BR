@@ -1,16 +1,17 @@
 """
-Script de Tradução Automatizada para Victoria 2 - Greater Flavor Mod (GFM)
-Motor de IA: DeepSeek-V3 (deepseek-chat via OpenAI SDK)
-Codificação alvo: Windows-1252 (cp1252), CSV de 15 colunas delimitadas por ';'.
+Tradutor automático de localização para Victoria 2 - Greater Flavor Mod (GFM) -> pt-BR
+Motor de IA: DeepSeek (via SDK da OpenAI, API compatível).
+Formato alvo: CSV do Clausewitz, 15 colunas separadas por ';', codificação Windows-1252 (cp1252).
 
 Uso:
-    python gfm_translate_deepseek_2.py                                # traduz tudo (só o delta, graças ao cache)
-    python gfm_translate_deepseek_2.py --dry-run                      # só conta quantas linhas faltam traduzir
-    python gfm_translate_deepseek_2.py --only text.csv                # processa exatamente o arquivo text.csv
-    python gfm_translate_deepseek_2.py --only text.csv --clean-cache  # limpa traduções suspeitas/crash do cache e retraduz
-    python gfm_translate_deepseek_2.py --only countries --retranslate-names # retraduz nomes próprios que estão no cache com O/A/Os/As
+    python gfm_translate_deepseek.py                                # traduz tudo (só o delta, graças ao cache)
+    python gfm_translate_deepseek.py --dry-run                      # só conta quantas linhas faltam traduzir
+    python gfm_translate_deepseek.py --only text.csv                # processa exatamente o arquivo text.csv
+    python gfm_translate_deepseek.py --only events                  # processa arquivos cujo nome contém "events"
+    python gfm_translate_deepseek.py --only text.csv --clean-cache  # limpa traduções suspeitas do cache e retraduz
+    python gfm_translate_deepseek.py --only countries --retranslate-names  # retraduz nomes próprios que ficaram com artigo
 
-Requer um arquivo .env com: DEEPSEEK_API_KEY=sk-...
+Configuração: copie .env.example para .env e preencha a chave da API e os caminhos (veja o README).
 """
 
 import argparse
@@ -34,17 +35,26 @@ load_dotenv()
 # ==============================================================================
 # 1. CONFIGURAÇÕES GERAIS E DIRETÓRIOS
 # ==============================================================================
-BASE_DIR = Path(r"C:\Users\gabri\Desktop\GFM - PT BR")
-SOURCE_DIR = Path(r"G:\Steam\steamapps\common\Victoria 2\mod\GFM\localisation")
-OUTPUT_DIR = Path(r"C:\Users\gabri\Desktop\GFM - PT BR\GFM Traducao\localisation")
+def _env_path(name: str, default: Path | None = None) -> Path:
+    value = os.getenv(name, "").strip().strip("'\"")
+    if value:
+        return Path(value).expanduser()
+    if default is not None:
+        return default
+    sys.exit(f"Variável {name} não definida. Copie .env.example para .env e preencha os caminhos.")
+
+
+SOURCE_DIR = _env_path("GFM_SOURCE_DIR")          # pasta 'localisation' do GFM original (só leitura)
+OUTPUT_DIR = _env_path("GFM_OUTPUT_DIR")          # pasta 'localisation' do mod de tradução (saída)
+BASE_DIR = _env_path("GFM_WORK_DIR", Path.cwd())  # onde ficam cache e log de falhas (padrão: pasta atual)
 CACHE_FILE = BASE_DIR / "gfm_deepseek_cache_v2.json"
 FAILURES_LOG = BASE_DIR / "gfm_falhas.log"
 
-OUTPUT_PREFIX = ""   # prefixo dos arquivos de saída (carregam por último e sobrescrevem)
+OUTPUT_PREFIX = os.getenv("GFM_OUTPUT_PREFIX", "")  # prefixo opcional dos arquivos de saída (ex.: "z_gfm_")
 ENGLISH_COL = 1      # índice da coluna do inglês (é ela que recebe o texto em pt-BR)
 TOTAL_COLS = 15      # KEY + 13 idiomas + "x"
 
-MODEL = "deepseek-chat"   # nome atual na tabela oficial
+MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")  # se a API recusar, tente "deepseek-flash" (veja o README)
 BASE_URL = "https://api.deepseek.com"
 TEMPERATURE = 0.2         # mais baixo para evitar criatividade excessiva em menus/nomes
 BATCH_SIZE = 25           # linhas por chamada
