@@ -1,0 +1,13 @@
+Key;Inglês;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+claim_bocas_del_toro_title;Reivindicar Bocas Del Toro;;;;;;;;;;;;;
+claim_bocas_del_toro_desc;Bocas Del Toro é uma pequena faixa de terra entre a Costa Rica e a Colômbia, à qual ambos reivindicamos, porém, se enviarmos o explorador Juan Galindo à região podemos justificar nossa expansão para a área, a Colômbia, no entanto, ainda pode exigir esta área se tentarmos incorporá-la à nossa nação.;;;;;;;;;;;;;
+claim_bocas_del_toro_outside_title;Reivindicar Bocas Del Toro;;;;;;;;;;;;;
+claim_bocas_del_toro_outside_desc;Bocas Del Toro é uma pequena faixa de terra entre a Costa Rica e o Panamá. Agora que possuímos todas as terras ao seu redor, podemos colonizá-la justamente e reivindicá-la para nós.;;;;;;;;;;;;;
+EVTNAME173164;Exigências Colombianas;;;;;;;;;;;;;
+EVTDESC173164;Como suspeitávamos, a anexação justificada de Bocas Del Toro foi contestada pelos vis colombianos que reivindicam a região, eles nos ameaçam com guerra se não cedermos a área imediatamente, abandonar a terra seria uma vergonha nacional, porém, mal podemos arcar com uma guerra contra uma nação muito maior que a nossa tanto em tamanho quanto em população.;;;;;;;;;;;;;
+173164OPTA;Sem rendição, que venham os colombianos!;;;;;;;;;;;;;
+173164OPTB;Não temos chance, ceda a área, imediatamente.;;;;;;;;;;;;;
+EVTNAME123676;Costa Rica toma Bocas Del Toro;;;;;;;;;;;;;
+EVTDESC123676;A Costa Rica, temendo tanto a nossa expansão quanto a inglesa em Bocas Del Toro, enviou uma expedição frágil para reivindicar a área como sua, isto é simplesmente inaceitável e injustificado, devemos enviar imediatamente nossa própria expedição à área para expulsá-los, e se recusarem, ameaçá-los com guerra.;;;;;;;;;;;;;
+173163OPTA;Prepare a expedição imediatamente, e envie o ultimato!;;;;;;;;;;;;;
+173163OPTB;É a terra deles, por direito.;;;;;;;;;;;;;

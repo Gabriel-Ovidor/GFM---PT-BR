@@ -1,0 +1,59 @@
+Key;Inglês;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+core_loango_title;Reivindicar Loango;;;;;;;;;;;;;x
+core_loango_desc;§RGanhar 3 de infâmia§! Loango tem sido um incômodo durante toda a nossa existência, sempre auxiliando insurgências no norte e bloqueando o comércio com nossos irmãos mais ao norte. Eles não merecem um país para si e devem ser trazidos sob nosso controle, caso contrário continuarão sendo uma praga para a região e para o mundo. Agora que seu antigo território é nosso, é hora de proclamá-los formalmente como um estado nosso.;;;;;;;;;;;;;x
+core_north_title;Conquistar o Norte;;;;;;;;;;;;;x
+core_north_desc;§RGanhar 5 de infâmia§! Agora que Loango está firmemente sob nosso império e possuímos a tecnologia europeia necessária para tal, é hora de reinar sobre o Norte. Nossos irmãos e irmãs estiveram desorganizados por eras, e provavelmente ficarão satisfeitos em estar sob nosso domínio. Ao Norte!;;;;;;;;;;;;;x
+kongowar_portugal_title;Libertar os Bantos em Angola;;;;;;;;;;;;;x
+kongowar_portugal_desc;§RGanhar 5 de infâmia§! Agora que estamos alcançando tecnológica e militarmente nosso vizinho Portugal, é hora de nos libertarmos de sua influência e libertar nossos primos ao Sul dos colonizadores que os oprimiram por séculos. Deus abençoe nosso grande Império! Deus abençoe o Kongo! Às armas! §RINICIAR UMA GUERRA COM PORTUGAL§W;;;;;;;;;;;;;x
+kongowar_won_title;Vitória em Angola!;;;;;;;;;;;;;x
+kongowar_won_desc;§RGanhar 5 de infâmia§! Após uma guerra sangrenta, libertamos nossos primos e estabelecemos nosso reinado sobre a região. Somos agora o maior reino da África. Deus abençoe nosso grande reino! Deus abençoe o Kongo!;;;;;;;;;;;;;x
+OYO_absolute_empire;Iseyin;;;;;;;;;;;;;x
+OYO_absolute_empire_ADJ;Iseyini;;;;;;;;;;;;;x
+OYO_semi_constitutional_empire;Iseyin;;;;;;;;;;;;;x
+OYO_semi_constitutional_empire_ADJ;Iseyini;;;;;;;;;;;;;x
+OYO_constitutional_empire;Iseyin;;;;;;;;;;;;;x
+OYO_constitutional_empire_ADJ;Iseyini;;;;;;;;;;;;;x
+OYO_proletarian_dictatorship;República Popular Yorubá;;;;;;;;;;;;;x
+OYO_presidential_dictatorship;República Yorubá;;;;;;;;;;;;;x
+OYO_colonial_company;Iorubalândia;;;;;;;;;;;;;x
+OYO_fascist_dictatorship;Iorubá Próprio;;;;;;;;;;;;;x
+OYOCAPITAL;Oyo tem sido a capital de nosso reino desde tempos antigos, mas sua captura pelos fulanis mudou isso. Com Oyo Ile novamente parte de nossa nação, a questão de transferir a capital para lá mais uma vez é razoável.;;;;;;;;;;;;;
+claim_north_oyo_title;Reivindicar as Terras do Norte;;;;;;;;;;;;;x
+claim_north_oyo_desc;§RGanhar 3 de infâmia§! Com o apoio dos fulanis ao traidor de Ilorin, é nossa missão proteger nossa fronteira norte para que tal nunca aconteça novamente.;;;;;;;;;;;;;x
+reclaim_dahomey_title;Recuperar o Daomé;;;;;;;;;;;;;x
+reclaim_dahomey_desc;§RGanhar 3 de infâmia§! O Daomé fez parte do Império de Oyo há algumas décadas. Com nossas outras terras novamente sob nosso controle, é nosso dever colocar o Daomé em seu lugar, pois somos os protetores dos iorubás.;;;;;;;;;;;;;x
+declare_empire_title;Restabelecer o Império;;;;;;;;;;;;;x
+declare_empire_desc;§RGanhar 7 de infâmia§! Com todas as nossas antigas terras sob nosso controle, restauraremos o império que outrora fomos sob nosso domínio.;;;;;;;;;;;;;x
+claim_greater_oyo_title;Reivindicar o Grande Oyo;;;;;;;;;;;;;x
+claim_greater_oyo_desc;§RGanhar 7 de infâmia§! Com todas as nossas terras sob nosso domínio, reivindicaremos nossas terras fronteiriças em nome da glória iorubá!;;;;;;;;;;;;;x
+arabic_writing_system_title;Usar o Sistema de Escrita Árabe;;;;;;;;;;;;;x
+arabic_writing_system_desc;O sistema de escrita árabe tem sido usado em todo o país e não é insensato pensar que poderíamos usá-lo oficialmente.;;;;;;;;;;;;;x
+accept_volta_niger_title;Hegemonia do Volta Níger;;;;;;;;;;;;;x
+accept_volta_niger_desc;§RGanhe 15 de infâmia§! Reivindicamos com sucesso toda a nossa região. As culturas vizinhas poderiam juntar-se a nós para tornar o nosso império maior!;;;;;;;;;;;;;x
+OYO;Oyo;Oyo;Oyo;;Oyo;;;;;;;;;
+OYO_ADJ;Iorubá;Oyo;Oyo;;;;;;;;;;;
+OYO_conservative;Egbe do Alaafin;Egbe Alaafin;Alaafins Fraktion;;;;;;;;;;;
+OYO_liberal;Oyo Mausi Egbe;Egbe de Alejin;Verbesserung Fraktion;;;;;;;;;;;
+OYO_reactionary;Ibile Egbe;Egbe ibile;Militärische Fraktion;;;;;;;;;;;
+OYO_radical;Iyato Egbe;Egbe radicale;Die radikale Fraktion;;;;;;;;;;;
+EGBA_conservative;Egbe do Alake;;;;;;;;;;;;;
+EGBA_liberal;Facção Egbado;;;;;;;;;;;;;
+EGBA_reactionary;Facção Owu;;;;;;;;;;;;;
+EGBA_radical;Iyato Egbe;;;;;;;;;;;;;
+IJB_conservative;Egbe do Awujale;;;;;;;;;;;;;
+IJB_liberal;Facção Osugbo;;;;;;;;;;;;;
+IJB_reactionary;Facção Obanta;;;;;;;;;;;;;
+IJB_radical;Iyato Egbe;;;;;;;;;;;;;
+EFO_conservative;Egbe do Alaaye;;;;;;;;;;;;;
+EFO_liberal;Facção Ogboni;;;;;;;;;;;;;
+EFO_reactionary;Facção Basorunv;;;;;;;;;;;;;
+EFO_radical;Iyato Egbe;;;;;;;;;;;;;
+OYO_socialist;Awon Eniyan Egbe;Egbe populaire;Volk Fraktion;;;;;;;;;;;
+OYO_communist;Egbe Comunista;Egbe communiste;Die kommunistische Fraktion;;;;;;;;;;;
+OYO_fascist;Yoruba Egbe;Egbe fasciste;Die faschistische Fraktion;;;;;;;;;;;
+SAA_colonial_company;Bacia do Sarre;Sarre;Saargebiet;;;;;;;;;;;
+SAA_absolute_monarchy;Saarbrucken;;;;;;;;;;;;;
+SAA_prussian_constitutionalism;Saarbrucken;;;;;;;;;;;;;
+SAA_hms_government;Saarbrucken;;;;;;;;;;;;;
+claim_oyo_real_title;Reivindicar o Oyo;;;;;;;;;;;;;
+claim_oyo_real_desc;Após termos sobrevivido à Jihad de Oyo, podemos agora reivindicar as terras que outrora foram nossas no Sul! Os Egba e os Ijebu separaram-se de nós há anos, quando uma guerra civil de décadas assolou as nossas terras, mas agora que esta terminou podemos regressar.;;;;;;;;;;;;;

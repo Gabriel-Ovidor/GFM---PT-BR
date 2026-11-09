@@ -1,0 +1,10 @@
+Key;Inglês;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+Explanation_Banner;* Os núcleos e datas a seguir são aproximados. Núcleos provenientes de integração não estão incluídos. *;;;;;;;;;;;;;
+Explanation_Banner_2;§Y* Os seguintes recursos podem ser desenvolvidos nesta província: *§!;;;;;;;;;;;;;
+LSK_RELEASEABLE_CORE_STARTING;@LSK Possível Núcleo do Alasca (Inicial);;;;;;;;;;;;;
+RUS_EVENT_CORE_1867;@RUS Possível Núcleo Russo (Evento, 1867);;;;;;;;;;;;;
+USA_EVENT_CORE_1867;@USA Possível Núcleo Americano (Evento, 1867, Histórico);;;;;;;;;;;;;
+ENG_EVENT_CORE_1867;@ENG Possível Núcleo Britânico (Evento, 1867);;;;;;;;;;;;;
+CAN_EVENT_CORE_1867;@CAN Possível Núcleo Canadense (Evento, 1867);;;;;;;;;;;;;
+PAC_DISMANTLEMENT_CORE;@PAC Possível Núcleo dos Estados do Pacífico (Desmembramento);;;;;;;;;;;;;
+SUGAR_STATE_1;@UTI Açúcar;;;;;;;;;;;;;

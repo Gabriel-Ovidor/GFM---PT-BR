@@ -1,0 +1,18 @@
+EVTNAME19356;Uma guerra para acabar com todas as guerras;;;;;;;;;;;;;x
+EVTDESC19356;Tornou-se cada vez mais claro que entramos numa nova era de guerra sem precedentes. Os conflitos de nosso tempo já não são meras questões locais, mas alcançam todos os cantos do mundo. Considerando as apostas cada vez maiores e o impacto aterrorizante dessas hostilidades sobre as nações envolvidas, já não há necessidade de contenção.\n\n A partir de agora, uma grande guerra permitirá que um lado claramente vitorioso tenha a capacidade de adicionar ainda mais objetivos de guerra;;;;;;;;;;;;;x
+EVTOPTA19356;Senhores, tudo o que peço é guerra, uma guerra tão grandiosa que fará o próprio Inferno tremer;;;;;;;;;;;;;x
+EVTDESC19356_NEWS_LONG;Tornou-se cada vez mais claro que entramos numa nova era de guerra sem precedentes. Os conflitos de nosso tempo já não são meras questões locais, mas alcançam todos os cantos do mundo. Considerando as apostas cada vez maiores e o impacto aterrorizante dessas hostilidades sobre as nações envolvidas, já não há necessidade de contenção.;;;;;;;;;;;;;x
+EVTDESC19356_NEWS_MEDIUM;Tornou-se cada vez mais claro que entramos numa nova era de guerra sem precedentes. Os conflitos de nosso tempo já não são meras questões locais, mas alcançam todos os cantos do mundo. Considerando as apostas cada vez maiores e o impacto aterrorizante dessas hostilidades sobre as nações envolvidas, já não há necessidade de contenção.;;;;;;;;;;;;;x
+EVTDESC19356_NEWS_SHORT;Tornou-se cada vez mais claro que entramos numa nova era de guerra sem precedentes.;;;;;;;;;;;;;x
+ASSIMILATE_EFFECT;Assimilar todas as Populações no estado \n;;;;;;;;;;;;;x
+WORLD_WARS_ENABLE_DESC;As grandes guerras agora podem se tornar Guerras Mundiais;;;;;;;;;;;;;x
+WORLD_WARS_ENABLED_DESC;As Guerras Mundiais estão habilitadas;;;;;;;;;;;;;x
+WORLD_WARS_DISABLED_DESC;As Guerras Mundiais NÃO estão habilitadas;;;;;;;;;;;;;x
+SM_WINDOW;Modo janela;;;;;;;;;;;;;x
+SM_WINDOWED;Em janela;;;;;;;;;;;;;x
+SM_FULLSCREEN;Tela cheia;;;;;;;;;;;;;x
+SM_BORDERLESS;Sem bordas;;;;;;;;;;;;;x
+IGNORE_DECISION_ON;Esta decisão está definida para NÃO notificar o jogador quando estiver disponível para ser tomada.\n\n§GClique para alterar o status de notificação.§!;;;;;;;;;;;;;x
+IGNORE_DECISION_OFF;Esta decisão está definida para notificar o jogador quando estiver disponível para ser tomada.\n\n§GClique para alterar o status de notificação.§!;;;;;;;;;;;;;x
+SPLITINHALF;Dividir ao Meio;;;;;;;;;;;;;x
+SPLITINHALF_DRO;Dividir ao meio dividirá a unidade atual em duas unidades de tamanho aproximadamente igual e selecionará a maior das duas unidades.;;;;;;;;;;;;;x

@@ -1,0 +1,62 @@
+Key;Inglês;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;;;;;x
+russo_japanese_war_title;Emboscar a Frota Russa em Port Arthur;;;;;;;;;;;;;
+russo_japanese_war_desc;A tensão tem fervilhado entre o Japão e a Rússia há algum tempo, enquanto ambas as nações tentam consolidar posições militares e econômicas na Coreia e no norte da China. Essa rivalidade não pode mais permanecer pacífica. Precisamos derrotar a Rússia em guerra se quisermos algum dia nos tornarmos os senhores do Oriente.;;;;;;;;;;;;;
+russo_japanese_war_japanese_treaty_title;Um Tratado com a Rússia;;;;;;;;;;;;;
+russo_japanese_war_japanese_treaty_desc;A derrota retumbante da Rússia em nossa guerra nos dá vantagem para lhes fazer exigências severas. Vamos decidir qual território tomar deles.;;;;;;;;;;;;;
+russo_japanese_war_russian_treaty_title;Um Tratado com o Japão;;;;;;;;;;;;;
+russo_japanese_war_russian_treaty_desc;O Japão nos atacou sem aviso, e agora sofre as consequências de sua derrota e humilhação. Aproveitemos a chance de negociar qual território podemos tomar deles.;;;;;;;;;;;;;
+EVTNAME784518;O Japão embosca a Frota do Pacífico em Port Arthur!;;;;;;;;;;;;;
+EVTDESC784518;A tensão diplomática com o Japão tem aumentado constantemente ao longo do tempo, enquanto ambos continuamos disputando a dominância na Ásia Oriental. Essa tensão diplomática agora atingiu o ponto de ruptura. A frota japonesa lançou um ataque surpresa contra nossa frota do Pacífico, ancorada em Port Arthur. Eles pretendem fazer guerra para decidir quem será o verdadeiro senhor da Ásia.;;;;;;;;;;;;;
+EVTNAME784519;Estamos Vencendo a Rússia!;;;;;;;;;;;;;
+EVTDESC784519;Com Port Arthur ocupado, temos a vantagem sobre o exército russo! Suas tropas são forçadas sem esperança a atravessar o terreno rigoroso da Sibéria para nos alcançar, e são alvos fáceis para nossos soldados entrincheirados. A derrota deles está à vista. Talvez estejam abertos a um tratado de paz agora.;;;;;;;;;;;;;
+EVTNAME784520;Japão nos oferece paz;;;;;;;;;;;;;
+EVTDESC784520;Nossas tropas estão desgastadas, e os japoneses estão obviamente em vantagem contra nós. Eles aproveitaram esta oportunidade para pedir a paz. Exigem Port Arthur e qualquer porção de Sacalina e das Curilas que possuímos. Devemos aceitar esta oferta?;;;;;;;;;;;;;
+EVTNAME784521;A Rússia aceita nossa oferta de paz!;;;;;;;;;;;;;
+EVTDESC784521;A guerra com a Rússia acabou. Eles aceitaram nossos generosos termos de paz, com nossas novas aquisições territoriais em vigor imediatamente. Hoje é um bom dia para $COUNTRY$.;;;;;;;;;;;;;
+EVTNAME784522;A Rússia Rejeita Nossa Oferta de Paz!;;;;;;;;;;;;;
+EVTDESC784522;Apesar de nossa clara vantagem, a Rússia ainda tem mais luta em si. Eles terão de ser persuadidos ainda mais a se submeter a nós.;;;;;;;;;;;;;
+EVTNAME784523;Estamos vencendo o Japão!;;;;;;;;;;;;;
+EVTDESC784523;Os vilanescos japoneses não conseguiram fazer um avanço significativo, apesar de sua emboscada inicial contra nossa marinha. Se estagnarem por mais tempo, ou começarem a perder mais batalhas, certamente perceberão que continuar lutando é inútil. Talvez devêssemos poupar-lhes tempo e propor a paz agora.;;;;;;;;;;;;;
+EVTNAME784524;Rússia nos oferece paz;;;;;;;;;;;;;
+EVTDESC784524;Falhamos em avançar após nosso ataque inicial à Rússia. A vitória começa a desaparecer do reino da possibilidade. A Rússia, no entanto, foi generosa o bastante para nos oferecer a paz agora. Exigem a cessão de nossas porções de Sacalina e das Curilas, bem como nossa retirada diplomática e militar da Coreia. Devemos aceitar?;;;;;;;;;;;;;
+EVTNAME784525;O Japão aceita nossa oferta de paz!;;;;;;;;;;;;;
+EVTDESC784525;Os japoneses estão cansados do lento desenrolar desta guerra. Concordaram em ceder sua porção de Sacalina para nós. Imaginamos que não nos desafiarão no Extremo Oriente novamente tão cedo.;;;;;;;;;;;;;
+EVTNAME784526;O Japão recusa nossa oferta de paz!;;;;;;;;;;;;;
+EVTDESC784526;O Japão tolamente se agarra à esperança de que pode virar o rumo desta guerra. Quanto mais derramamento de sangue será necessário para que entendam seu erro?;;;;;;;;;;;;;
+EVTNAME784527;Um tratado mais severo com a Rússia;;;;;;;;;;;;;
+EVTDESC784527;Agora temos a capacidade de exigir mais território da Rússia do que inicialmente esperávamos. Qualquer que seja a escolha que fizermos, ela prejudicará a presença russa na Ásia Oriental e no Pacífico. O que devemos exigir? (Observe que quaisquer escolhas que envolvam anexar colônias asiáticas que a Rússia não possui não funcionarão. Você ganhará infâmia em vão.);;;;;;;;;;;;;
+EVTNAME784528;O Japão faz sua Oferta de Paz;;;;;;;;;;;;;
+EVTDESC784528;O Japão exige toda a Sacalina, as Curilas, a Manchúria Exterior e quaisquer de nossos territórios na Ásia Oriental. Somos obrigados a conceder-lhes esta terra, agora que a guerra terminou.;;;;;;;;;;;;;
+EVTDESC7845281;O Japão exige a Sacalina do Sul, as Curilas e quaisquer de nossos territórios na Ásia Oriental. Somos obrigados a conceder-lhes esta terra, agora que a guerra terminou.;;;;;;;;;;;;;
+EVTNAME784529;O Japão faz uma Oferta de Paz severa;;;;;;;;;;;;;
+EVTDESC784529;O Japão exige todo o nosso território do Extremo Oriente até Kamchatka, bem como qualquer território na Ásia Oriental. Isso impedirá a Rússia de ter um litoral no Pacífico. Ainda assim, somos obrigados a dar-lhes o que desejam.;;;;;;;;;;;;;
+EVTNAME784530;A Oferta de Paz ousada do Japão;;;;;;;;;;;;;
+EVTDESC784530;O Japão exige todo o Extremo Oriente russo, até o Transbaikal, bem como qualquer território na Ásia Oriental. Toda a Sibéria oriental se tornará japonesa. Eles estão impondo condições duras para um inimigo derrotado como nós.;;;;;;;;;;;;;
+EVTNAME784531;Um tratado mais severo com o Japão;;;;;;;;;;;;;
+EVTDESC784531;Agora temos a capacidade de exigir mais território do Japão do que inicialmente esperávamos. Qualquer que seja a escolha que fizermos, ela prejudicará a posição estratégica do Japão na Ásia Oriental, tornando a expansão muito mais difícil para eles. O que devemos exigir? (Observe que quaisquer escolhas que envolvam anexar colônias asiáticas que o Japão não possui não funcionarão. Você ganhará infâmia em vão.);;;;;;;;;;;;;
+EVTNAME784532;A Rússia faz sua oferta de paz;;;;;;;;;;;;;
+EVTDESC784532;A Rússia exige Sacalina, Hokkaido e Tsushima. Eles pretendem nos impedir de expandir para a Ásia continental. Nós, é claro, somos obrigados a conceder-lhes o seu desejo.;;;;;;;;;;;;;
+EVTNAME784533;A Rússia faz uma oferta de paz severa;;;;;;;;;;;;;
+EVTDESC784533;A Rússia exige Sacalina, Hokkaido, Tsushima e Taiwan. Eles pretendem nos impedir de expandir para a Ásia continental. Nós, é claro, somos obrigados a conceder-lhes o seu desejo.;;;;;;;;;;;;;
+EVTNAME784534;A Oferta de Paz ousada da Rússia;;;;;;;;;;;;;
+EVTDESC784534;A Rússia exige Sacalina, Hokkaido, Tsushima e quaisquer territórios coreanos e chineses. Não teremos mais qualquer influência no continente, isolando ainda mais geograficamente nossas ilhas. Mas não é como se tivéssemos escolha neste tratado.;;;;;;;;;;;;;
+aggression_against_russia;Agressão contra a Rússia;;;;;;;;;;;;;
+aggression_against_russia_desc;Estamos travando uma guerra ofensiva contra a Rússia, pretendendo expulsá-la da Ásia Oriental e do Pacífico. Este modificador expirará após 580 dias do início da Guerra Russo-Japonesa. Se Port Arthur for tomada e mantida por nós por mais de 30 dias até então, poderemos pedir a paz. Caso contrário, a Rússia poderá fazer exigências a nós.;;;;;;;;;;;;;
+expel_russians_from_far_east_title;Expulsar os russos do Extremo Oriente;;;;;;;;;;;;;
+expel_russians_from_far_east_desc;O Extremo Oriente é decididamente russo em seu caráter, devido a centenas de anos de colonização russa. Ainda é escassamente povoado, mas qualquer possibilidade de rebelião separatista surgir ali é inaceitável, por menor que seja em escala. Os russos devem ser expulsos e substituídos por japoneses.;;;;;;;;;;;;;x
+EVTNAME666606;Russos expulsos do Extremo Oriente;;;;;;;;;;;;;
+EVTDESC666606;O Extremo Oriente japonês foi limpo de quase todos os habitantes russos, deixando para trás uma terra devastada com escassos vestígios de vida humana. Da ponta de Irkutsk a Kamchatka, antigos cidadãos russos foram reunidos por soldados japoneses e escoltados até os assentamentos russos mais próximos. Ou, pelo menos, esse era o objetivo no papel. A realidade é que aqueles que não se juntaram aos milhares escoltados sob a mira de um rifle foram mortos, e os únicos isentos da expulsão foram os de profissões especializadas, que foram postos a trabalhar em campos de trabalho. Enquanto isso, as cidades russas de Yakutsk, Nizheudinsk e Kansk ficaram inundadas de refugiados. Eles morrem de fome às centenas, pois as terras agrícolas siberianas não produzem o suficiente para alimentar mais do que uma aldeia.;;;;;;;;;;;;;
+EVTNAME666607;As forças de $COUNTRY_ADJ$ falham em expulsar os russos;;;;;;;;;;;;;
+EVTDESC666607;Os russos do Extremo Oriente conseguiram mobilizar uma resistência rápido o suficiente para repelir as forças de $COUNTRY_ADJ$, tornando nossa tarefa de expulsá-los quase impossível de completar. Os confrontos resultantes causaram baixas tanto para rebeldes quanto para civis, com desertores do exército russo cruzando a fronteira para ajudar seus compatriotas. Colonos japoneses também foram expulsos de suas casas, com muitos entregando suas vidas à multidão. Nossos esforços para despejar os habitantes locais não deram resultado até agora. Se continuarmos com isso, teremos que despejar os habitantes aos poucos.;;;;;;;;;;;;;
+EVTNAME666608;Concederemos acesso militar ao Japão e à Rússia.;;;;;;;;;;;;;
+EVTDESC666608;Foi este o caso na guerra da vida real. Seguiremos o mesmo caminho.;;;;;;;;;;;;;
+EVTNAME666609;Vejo que cancelou o nosso acesso militar.;;;;;;;;;;;;;
+EVTDESC666609;Nada legal, homem. Nada legal. Devolva-o.;;;;;;;;;;;;;
+EVTNAME666610;$FROMCOUNTRY$ concede-nos acesso militar;;;;;;;;;;;;;x
+EVTDESC666610;Visto que lutamos por qual esfera de influência a Coreia e o Norte da China ficarão, é natural que $FROMCOUNTRY$ nos conceda acesso militar durante esta guerra.;;;;;;;;;;;;;x
+remove_jap_and_rus_military_access_title;Cancelar o acesso militar do Japão e da Rússia;;;;;;;;;;;;;x
+remove_jap_and_rus_military_access_desc;A Guerra Russo-Japonesa terminou. É hora de os exércitos da Rússia e do Japão regressarem às suas próprias fronteiras.;;;;;;;;;;;;;x
+EVTNAME666611;$FROMCOUNTRY$ cancela o nosso acesso militar;;;;;;;;;;;;;x
+EVTDESC666611;A guerra terminou, e agora devemos ir para casa. O nosso acesso militar em $FROMCOUNTRY$ foi cancelado.;;;;;;;;;;;;;x
+annex_manchuria_title;Anexar a Manchúria;;;;;;;;;;;;;
+annex_manchuria_desc;A nossa invasão da Manchúria foi bem-sucedida. Podemos iniciar o processo de anexação do território.;;;;;;;;;;;;;

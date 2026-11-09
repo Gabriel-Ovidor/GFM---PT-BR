@@ -1,0 +1,354 @@
+Key;Inglês;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;;;;;x
+sugar_RGO_SIZE;Tamanho da plantação de cana-de-açúcar;;;;;;;;;;;;;x
+sugar;Açúcar;;;;;;;;;;;;;x
+PROV2446;São João D'el-Rey;;;;;;;;;;;;;x
+PROV2449;Victória;;;;;;;;;;;;;x
+PROV2462;Palmas;;;;;;;;;;;;;x
+PROV2457;Curityba;;;;;;;;;;;;;x
+PROV2420;Punta Porá;;;;;;;;;;;;;x
+PROV3556;Litani;;;;;;;;;;;;;x
+PROV3560;Durango;;;;;;;;;;;;;x
+PROV3567;Marabitanas;;;;;;;;;;;;;x
+PROV3444;Mantiqueira;;;;;;;;;;;;;x
+PROV2402;Manaus;;;;;;;;;;;;;x
+PROV3584;Planalto;;;;;;;;;;;;;x
+PROV1049;Anapa;;;;;;;;;;;;;x
+PROV2532;Uraricoera;;;;;;;;;;;;;x
+PROV2443;Diamantina;;;;;;;;;;;;;x
+PROV2407;Ilha de Bragança;;;;;;;;;;;;;x
+PROV2415;Forte de Tauregue;;;;;;;;;;;;;x
+PROV2986;Arquipélago de Abrolhos;;;;;;;;;;;;;x
+PROV2988;Costa Riograndense;;;;;;;;;;;;;x
+RUS_968;Podólia;;;;;;;;;;;;;x
+PROV969;Birzula;;;;;;;;;;;;;x
+RUS_958;Kiev;;;;;;;;;;;;;x
+PROV958;Kiev;;;;;;;;;;;;;x
+PROV971;Elisavetgrad;;;;;;;;;;;;;x
+PROV978;Kharkov;;;;;;;;;;;;;x
+PROV917;al-Quds;;;;;;;;;;;;;x
+EGY_921;Filastin;;;;;;;;;;;;;x
+PROV916;Akka;;;;;;;;;;;;;x
+PROV918;Nabulus;;;;;;;;;;;;;x
+PROV919;al-Majdal;;;;;;;;;;;;;x
+PROV3357;Bir al-Saba;;;;;;;;;;;;;x
+PROV3474;Yafa;;;;;;;;;;;;;x
+PROV920;Ghazza;;;;;;;;;;;;;x
+PROV3641;Melo;;;;;;;;;;;;;x
+PROV2347;Maldonado;;;;;;;;;;;;;x
+PROV3618;Chuí;;;;;;;;;;;;;x
+PROV3642;Merim;;;;;;;;;;;;;x
+PROV3643;Lagoa dos Patos;;;;;;;;;;;;;x
+PROV3644;Colonia;;;;;;;;;;;;;x
+PROV2418;Cuyabá;;;;;;;;;;;;;x
+BRZ_2416;Matto Grosso;;;;;;;;;;;;;x
+BRZ_2421;Goyaz;;;;;;;;;;;;;x
+BRZ_2446_1;Minas Geraes;;;;;;;;;;;;;x
+PROV2428;Parahyba;;;;;;;;;;;;;x
+PROV3328;Elbing;;;;;;;;;;;;;x
+PROV3329;Osterode;;;;;;;;;;;;;x
+PROV3327;Allenstein;;;;;;;;;;;;;x
+PROV623;Oberwart;;;;;;;;;;;;;x
+PROV3376;Ariari;;;;;;;;;;;;;x
+PROV909;Amman;;;;;;;;;;;;;x
+PROV908;Karak;;;;;;;;;;;;;x
+PROV278;Ucayali;;;;;;;;;;;;;x
+PEU_278;Ucayali;;;;;;;;;;;;;x
+PROV3443;Sabará;;;;;;;;;;;;;x
+PROV2442;Pitangui;;;;;;;;;;;;;x
+PROV2445;Uberaba;;;;;;;;;;;;;x
+PROV2444;Paracatu;;;;;;;;;;;;;x
+PROV3445;Itabira;;;;;;;;;;;;;x
+PROV3446;Rio Pardo de Minas;;;;;;;;;;;;;x
+PROV3651;Teffé;;;;;;;;;;;;;x
+PROV3652;Olivença;;;;;;;;;;;;;x
+PROV2404;Madeira;;;;;;;;;;;;;x
+PROV3653;Tapanahony;;;;;;;;;;;;;x
+PROV3654;Auburn;;;;;;;;;;;;;x
+PROV3655;Greenville;;;;;;;;;;;;;x
+PROV3656;Huntington;;;;;;;;;;;;;x
+PROV3657;Abingdon;;;;;;;;;;;;;x
+PROV3658;Solikamsk;;;;;;;;;;;;;x
+PROV3666;Trindade e Martim Vaz;;;;;;;;;;;;;x
+PROV2401;Isana;;;;;;;;;;;;;x
+AUS_702;Westgalizien;;;;;;;;;;;;;x
+RGS;República Rio-Grandense;;;;;;;;;;;;;x
+DES_theocracy;Teodemocracia de Sião;;;;;;;;;;;;;x
+RGS_absolute_monarchy;Reino Rio-grandense;;;;;;;;;;;;;x
+RGS_prussian_constitutionalism;Reino Rio-grandense;;;;;;;;;;;;;x
+RGS_hms_government;Reino Rio-grandense;;;;;;;;;;;;;x
+RGS_absolute_empire;Reino Rio-grandense;;;;;;;;;;;;;x
+RGS_semi_constitutional_empire;Reino Rio-grandense;;;;;;;;;;;;;x
+RGS_constitutional_empire;Reino Rio-grandense;;;;;;;;;;;;;x
+RGS_fascist_dictatorship;Estado Rio-grandense;;;;;;;;;;;;;x
+RGS_prov_gov_conservative;Província de São Pedro;;;;;;;;;;;;;x
+RGS_prov_gov_liberal;República Rio-grandense;;;;;;;;;;;;;x
+RGS_ADJ;Rio-grandense;;;;;;;;;;;;;x
+RGS_conservative;Partido Conservador;;;;;;;;;;;;;x
+RGS_liberal;Partido Federalista;;;;;;;;;;;;;x
+RGS_socialist;Partido Socialista Rio-grandense;;;;;;;;;;;;;x
+RGS_communist;Partido Popular;;;;;;;;;;;;;x
+RGS_reactionary;Partido Republicano Rio-grandense;;;;;;;;;;;;;x
+RGS_radical;Partido Libertador;;;;;;;;;;;;;x
+RGS_fascist;Partido dos Pampas;;;;;;;;;;;;;x
+SAC;Santa Catharina;;;;;;;;;;;;;x
+SAC_democracy;República Catharinense;;;;;;;;;;;;;x
+SAC_ADJ;Catharinense;;;;;;;;;;;;;x
+MAR;Maranhão;;;;;;;;;;;;;x
+MAR_ADJ;Maranhense;;;;;;;;;;;;;x
+AMZ;Amazonas;;;;;;;;;;;;;x
+AMZ_ADJ;Amazonense;;;;;;;;;;;;;x
+PAA;Pará;;;;;;;;;;;;;x
+PAA_prov_gov_liberal;Cabanos;;;;;;;;;;;;;x
+PAA_democracy;República Paraense;;;;;;;;;;;;;x
+PAA_ADJ;Paraense;;;;;;;;;;;;;x
+MGO;Matto Grosso;;;;;;;;;;;;;x
+MGO_ADJ;Matto-Grossense;;;;;;;;;;;;;x
+GOI;Goiás;;;;;;;;;;;;;x
+GOI_ADJ;Goiano;;;;;;;;;;;;;x
+PIA;Piauhy;;;;;;;;;;;;;x
+PIA_ADJ;Piauhyense;;;;;;;;;;;;;x
+CEA;Ceará;;;;;;;;;;;;;x
+CEA_ADJ;Cearense;;;;;;;;;;;;;x
+MGR;Minas Geraes;;;;;;;;;;;;;x
+MGR_ADJ;Mineiro;;;;;;;;;;;;;x
+SAP;São Paulo;;;;;;;;;;;;;x
+SAP_ADJ;Paulista;;;;;;;;;;;;;x
+BAH_theocracy;Males;;;;;;;;;;;;;x
+BAH_theocracy_ADJ;Male;;;;;;;;;;;;;x
+STP;São Tomé e Príncipe;;;;;;;;;;;;;x
+STP_ADJ;São-Tomense;;;;;;;;;;;;;x
+FRN;Federação Centro-Africana;;;;;;;;;;;;;x
+FRN_ADJ;Centro-Africano;;;;;;;;;;;;;x
+PNA;Paraná;;;;;;;;;;;;;x
+PNA_ADJ;Paranaense;;;;;;;;;;;;;x
+RDJ;Rio de Janeiro;;;;;;;;;;;;;x
+RDJ_ADJ;Fluminense;;;;;;;;;;;;;x
+EPS;Espírito Santo;;;;;;;;;;;;;x
+EPS_ADJ;Capixaba;;;;;;;;;;;;;x
+TBZ;Canato de Tabriz;;;;;;;;;;;;;x
+TBZ_ADJ:Tabriz;;;;;;;;;
+SHR;Shirvan;;;;;;;;;;;;;x
+SHR_ADJ;Shirvan;;;;;;;;;;;;;x
+KRB;Canato de Karabakh;;;;;;;;;;;;;x
+KRB_ADJ;Karabakh;;;;;;;;;;;;;x
+TLY;Canato de Talysh;;;;;;;;;;;;;x
+TLY_ADJ;Talyshi;;;;;;;;;;;;;x
+NKH;Nakhichevan;;;;;;;;;;;;;x
+NKH_ADJ;Nakhichevan;;;;;;;;;;;;;x
+ERV;Erivan;;;;;;;;;;;;;x
+ERV_ADJ;Erivan;;;;;;;;;;;;;x
+CPD;Capadócia;;;;;;;;;;;;;x
+CPD_ADJ;Capadócia;;;;;;;;;;;;;x
+FRS;Fars;;;;;;;;;;;;;x
+FRS_ADJ;Persa;;;;;;;;;;;;;x
+WUR;Wurttemberg;;;;;;;;;;;;;x
+LUB;Lubeck;;;;;;;;;;;;;x
+PTR;Principado de Trinidad;;;;;;;;;;;;;x
+PTR_ADJ;Trinitário;;;;;;;;;;;;;x
+PZN_colonial_company;Grão-Ducado de Posen;;;;;;;;;;;;;x
+MON_colonial_company_4;Governadoria de Montenegro;;;;;;;;;;;;;x
+patagonian;Nativo Patagônio;;;;;;;;;;;;;x
+MCD_colonial_company;Principado da Macedônia;;;;;;;;;;;;;x
+PTG_prussian_constitutionalism;Mapuche;;;;;;;;;;;;;x
+PTG_hms_government;Reino de Araucânia e Patagônia;;;;;;;;;;;;;x
+colonial_company_2;Dependência Autônoma;;;;;;;;;;;;;x
+colonial_company_2_ruler;Governador;;;;;;;;;;;;;x
+colonial_company_3;Dependência Autônoma;;;;;;;;;;;;;x
+colonial_company_3_ruler;Governador;;;;;;;;;;;;;x
+colonial_company_4;Dependência Autônoma;;;;;;;;;;;;;x
+colonial_company_4_ruler;Governador;;;;;;;;;;;;;x
+QUE_absolute_empire;Canadá;;;;;;;;;;;;;x
+QUE_semi_constitutional_empire;Canadá;;;;;;;;;;;;;x
+QUE_constitutional_empire;Canadá;;;;;;;;;;;;;x
+RUS_proletarian_dictatorship;União das Repúblicas Socialistas Soviéticas;;;;;;;;;;;;;x
+GCF_proletarian_dictatorship;República Mundial Socialista;;;;;;;;;;;;;
+MOR_prov_gov_conservative;Zona Internacional de Tânger;;;;;;;;;;;;;
+lanzas_desc;Há dois anos, o caudilho Timoteo Aparicio, líder do Partido Nacional, comumente conhecido como os "Blancos", iniciou uma revolução conhecida como "Revolúcion de las Lanzas" (Revolução das Lanças). Os desejos de Timoteo com tal revolução eram aumentar a representação dos partidos minoritários dentro do governo uruguaio. Timoteo foi bem-sucedido, forçando-nos a ratificar um tratado de partilha de poder, concedendo ao Partido Nacional o controle político sobre os departamentos de Cerro Largo, Florida, Canelones e San José.;;;;;;;;;;;;;x
+EVTOPTA46400;Esses malditos Blancos!;;;;;;;;;;;;;x
+itatiaia_desc;Pela primeira vez, o "Pico das Agulhas Negras", localizado no maciço de Itatiaia, parte da serra da Mantiqueira, foi escalado por Carlos Spierling e Osvaldo Leal. Franklin Massena e André Rebouças tentaram escalar o Itatiaia em 1878 e 1898, respectivamente.;;;;;;;;;;;;;x
+14-bis_desc;Hoje, o inventor brasileiro Santos Dumont voou com seu aeroplano, conhecido como 14-bis, dentro de Bagatelle por uma distância de 60 metros em apenas 7 segundos, com mil espectadores, incluindo a AéCF.;;;;;;;;;;;;;x
+french_guyana_purchase_title;Comprar a Guiana Francesa;;;;;;;;;;;;;x
+french_guyana_purchase_desc;Agora que recuperamos nossas terras perdidas no sul, devemos buscar consolidar nossa influência no norte. Ofereceremos comprar uma das colônias europeias na região das Guianas.;;;;;;;;;;;;;x
+suriname_purchase_title;Compra do Suriname;;;;;;;;;;;;;x
+suriname_purchase_desc;Agora que conseguimos comprar uma das colônias europeias nas Guianas, devemos buscar consolidar ainda mais nossa influência na região. Para tanto, ofereceremos comprar outra das colônias europeias na região das Guianas.;;;;;;;;;;;;;x
+guyana_purchase_title;Compra da Guiana;;;;;;;;;;;;;x
+guyana_purchase_desc;Agora que conseguimos comprar duas das colônias europeias nas Guianas, devemos buscar afirmar nossa hegemonia na região. Para tanto, ofereceremos comprar a última das colônias europeias na região das Guianas.;;;;;;;;;;;;;x
+lei_de_terras_title;Lei de Terras;;;;;;;;;;;;;x
+lei_de_terras_desc;Uma reestruturação do sistema de propriedade privada da terra foi proposta ao nosso governo, algo que, até este momento, não foi regulado por nenhum documento legal específico. No Senado, eclodiu um debate entre ruralistas que querem tornar as terras do governo disponíveis apenas por compra e defensores da promoção da imigração que querem criar programas de colonização para doar terras aos colonos e aumentar nosso controle do interior. A legislação proposta por eles, a Lei de Terras, garantiria a fluidez do crédito necessária para manter a produtividade agrícola e promover a institucionalização dos mercados de terra, trabalho e capital, consolidando um modelo de modernização conservadora.;;;;;;;;;;;;;x
+EVTNAME97071;Oferta para vender nossas colônias das Guianas;;;;;;;;;;;;;x
+EVTDESC97071;Recebemos uma oferta para vender nossa colônia na região das Guianas.;;;;;;;;;;;;;x
+EVT97071PTA;Concordamos com o acordo.;;;;;;;;;;;;;x
+EVT97071PTB;Não venderemos nossa terra de direito!;;;;;;;;;;;;;x
+EVTNAME97072;Um acordo bem-sucedido;;;;;;;;;;;;;x
+EVTDESC97072;Os europeus concordaram com nossa oferta.;;;;;;;;;;;;;x
+EVT97072PTA;Viva!;;;;;;;;;;;;;x
+EVTNAME97073;Um acordo malsucedido;;;;;;;;;;;;;x
+EVTDESC97073;Aqueles europeus importunos rejeitaram nossa generosa oferta.;;;;;;;;;;;;;x
+EVT97073PTA;Que pena, de fato.;;;;;;;;;;;;;x
+BRZ_42_lib_desc;Os apoiadores liberais nas províncias de Minas Gerais e São Paulo estão furiosos com o atual governo e sua agenda pró-conservadora. Vários liberais descontentes agora pegaram em armas e depuseram governadores conservadores, substituindo-os por aliados liberais. Não podemos deixá-los chegar ao Rio!;;;;;;;;;;;;;x
+42_liberals_vic_desc;Somos vitoriosos! Após árduos combates, finalmente capturamos a capital Rio de Janeiro. Agora é hora de o governo do Brasil aceitar nossas exigências! Viva o Partido Liberal! Viva o Povo Brasileiro!;;;;;;;;;;;;;x
+42_legalist_vic_desc;Derrotamos os liberais e seu governo ilegítimo! Mais uma vez, os legalistas reinam supremos sobre as províncias rebeldes e ninguém ousará contestar a legitimidade de nosso governo de agora em diante!;;;;;;;;;;;;;x
+cemiterada_desc;Hoje é um dia sombrio para São Salvador, pois quatro mil cidadãos liderados por líderes religiosos protestam contra o cemitério privado do "Campo Santo", e o motivo por trás de tamanha violência insensata é que, antes, o governo da Bahia aprovou essas leis de cemitério. Os líderes religiosos eram responsáveis pelo processo funerário na Bahia e, portanto, se beneficiavam de uma quantia considerável de dinheiro paga por aqueles que desejavam um sepultamento nas igrejas, capital que agora estaria nas mãos de outra pessoa.;;;;;;;;;;;;;x
+brz_metric_desc;O governo do Brasil aprovou uma lei que substitui o sistema imperial pelo novo sistema métrico. Intelectuais no Brasil nos afirmaram que essa mudança será benéfica. No entanto, isso pode desagradar alguns comerciantes, pois eles acreditam que o sistema métrico causará um declínio no lucro.;;;;;;;;;;;;;x
+brz_kilo_desc;Alguns de nossos súditos no nordeste estão descontentes com nossa mudança para o sistema métrico, chegando até a recorrer à violência. Na vila de Fagundes, Paraíba, os reservatórios de água, agora medidos em sistema métrico, foram atacados por esses camponeses como o primeiro estopim da revolta. Mais de 60 áreas diferentes no Nordeste relataram ataques desses chamados "quebradores de quilos".;;;;;;;;;;;;;x
+praieira_desc;Liberais descontentes no nordeste iniciaram uma revolta contra o governo do Brasil, alegando que estão sub-representados no governo. Os rebeldes exigem o fim da censura à imprensa, atualmente praticada para proteger a integridade da monarquia brasileira. Alguns dos insurretos chegam até a exigir o estabelecimento de uma república. Não podemos deixar isso acontecer.;;;;;;;;;;;;;x
+praieira_lib_desc;Somos vitoriosos! Após árduos combates, finalmente capturamos a capital Rio de Janeiro. Agora é hora de o governo do Brasil aceitar nossas exigências! Viva o Partido Liberal! Viva o Povo Brasileiro!;;;;;;;;;;;;;x
+seca_desc;A Grande Seca nos atingiu, deixando milhares de mortos no Sertão do Nordeste, com milhares mais emigrando da área tanto para a amazônia quanto para o sul. As pessoas da área não estavam preparadas para tal seca, causada pela má gestão da região e sua agricultura irregular, agravada pelo quão pobre e negligenciado é o Nordeste em relação ao resto do país.;;;;;;;;;;;;;x
+muckers_desc;Os Muckers eram um grupo de imigrantes alemães que seguiam uma "curandeira milagrosa" conhecida como Jacobina Mentz Maurer, que agora liderou uma turba furiosa e mortal que causou a morte de centenas, além de muitos casos de incêndio criminoso. Felizmente, o exército fez seu dever e reprimiu esses extremistas religiosos insanos, incluindo Jacobina. Nunca mais teremos de lidar com isso.;;;;;;;;;;;;;x
+BRZ_democracy;Estados Unidos do Brasil;;;;;;;;;;;;;x
+queiros_desc;O governo do Brasil assinou a lei conhecida como "Eusébio de Queirós", nomeada em homenagem a um senador abolicionista nascido em Angola, como uma tentativa de deter o desenfreado comércio ilegal de escravos. Por causa desta lei, muitos proprietários de escravos começaram a importar escravos em massa.;;;;;;;;;;;;;x
+comarca_desc;A Comarca do Rio São Francisco costumava pertencer à província de Pernambuco. No entanto, seu governo se separou do Império do Brasil em 1824 como a Confederação do Equador, fazendo com que o Imperador Pedro I punisse Pernambuco retirando-lhe a referida Comarca e transferindo sua propriedade para a província de Minas Geraes. Mas após três anos de domínio mineiro, a área foi temporariamente entregue à Bahia. É hora de decidir se mantém ou não o controle baiano sobre a região ou a devolve a Minas Gerais ou Pernambuco.;;;;;;;;;;;;;x
+angola_purchase_title;Compra de Angola;;;;;;;;;;;;;x
+angola_purchase_desc;Angola é uma colônia portuguesa há muito estabelecida no leste da África, do outro lado do Atlântico. Nossa posição ascendente no cenário global torna tentador expandir nossas fronteiras além da América do Sul. Talvez possamos negociar a compra de Angola, dando-nos uma vantagem sobre Portugal, nosso antigo mestre colonial.;;;;;;;;;;;;;x
+EVTNAME47074;Brasil Oferece Comprar Angola;;;;;;;;;;;;;x
+EVTDESC47074;Com o status ascendente do Brasil no mundo, eles procuraram expandir suas fronteiras além da América do Sul. Eles ofereceram comprar Angola de nós por 100.000 dólares. Perder Angola prejudicará nossos esforços para conquistar mais da África, mas se Angola for considerada um incômodo, 100.000 dólares não soa mal.;;;;;;;;;;;;;x
+EVT47074PTA;Esse preço é tentador.;;;;;;;;;;;;;x
+EVT47074PTB;Angola é nossa. Seu status é inegociável.;;;;;;;;;;;;;x
+EVTNAME47075;Portugal Aceita a Compra de Angola;;;;;;;;;;;;;x
+EVTDESC47075;Angola agora é brasileira, permitindo-nos conquistar mais do continente se assim desejarmos. As possibilidades de expansão são infinitas!;;;;;;;;;;;;;x
+EVT47075PTA;O mundo conhecerá o poder do Brasil!;;;;;;;;;;;;;x
+EVTNAME47076;Portugal Rejeita a Compra de Angola;;;;;;;;;;;;;x
+EVTDESC47076;Portugal insiste que Angola é legitimamente deles, não importa o preço que nomeemos, o que significa que não podemos mais anexar as terras de Angola pacificamente. No entanto, se Portugal não quer entregar Angola, sempre podemos tomá-la pela força.;;;;;;;;;;;;;x
+EVT47076PTA;Nós a retomamos. Portugal não terá voz no destino de Angola.;;;;;;;;;;;;;x
+EVTNAME47077;Nina Rodrigues;;;;;;;;;;;;;x
+EVTDESC47077;Raimundo Nina Rodrigues é um médico legista, psiquiatra, professor, escritor, antropólogo e etnólogo brasileiro. Ele também se aventurou, por vezes, em dietética, tropicologia, sexologia, higiene, biografia e epidemiologia. Um notável eugenista, é considerado o fundador da antropologia criminal brasileira. Rodrigues é creditado por estudos pioneiros sobre a cultura e o povo negro, embora tenha adotado um ponto de vista racista.;;;;;;;;;;;;;x
+EVTOPTA47077;De fato interessante;;;;;;;;;;;;;x
+EVTDESC47078;O Rio de Janeiro, capital de nossa nação, sofre de uma falta crônica de planejamento urbano. Além de ineficiente, também contribui para que doenças como varíola, peste bubônica e febre amarela se espalhem como fogo na cidade. Uma série de reformas urbanas é necessária para modernizar a cidade e erradicar doenças endêmicas.;;;;;;;;;;;;;x
+EVTOPTA47078;Tenho certeza de que isso não vai sair pela culatra.;;;;;;;;;;;;;x
+EVTDESC47079;A população do Rio de Janeiro está em revolta. O prefeito usou os grandes poderes que lhe demos para destruir favelas, desalojando pessoas de suas casas enquanto modernizava a cidade. O prefeito também começou a impor a vacinação obrigatória invadindo casas de cidadãos que ainda não haviam aceitado as vacinas. Essas medidas levaram a população a protestar contra a vacinação forçada, e os protestos provocaram uma revolta.;;;;;;;;;;;;;x
+EVTOPTA47079;Saiu pela culatra mesmo...;;;;;;;;;;;;;x
+EVTDESC47080;Joaquim Maria Machado de Assis, ou Machado de Assis, é considerado por muitos o maior nome da literatura brasileira. Nascido em uma família empobrecida descendente de escravos emancipados, tendo mal estudado e nunca frequentado a universidade, escreveu dez romances e 205 contos e introduziu o realismo no Brasil. Joaquim foi um dos primeiros escritores a escrever sobre os problemas sociais no Brasil e influenciou outros autores por anos a fio.;;;;;;;;;;;;;x
+EVTDESC47081;Antonio Frederico de Castro Alves, ou Castro Alves, foi um famoso poeta brasileiro conhecido como "o poeta dos escravos". Ele é considerado o maior poeta romântico do Brasil. Sua poesia mostrou a realidade horrível da escravidão e fortaleceu o movimento abolicionista.;;;;;;;;;;;;;x
+EVTOPTA47081;Um grande homem, de fato.;;;;;;;;;;;;;x
+araucania_ptg_desc;Desde a chegada do advogado francês Orelie-Antoine, a região conhecida como "Araucania" tem estado em turbulência, à medida que cada vez mais chefes ameríndios se aliam a Antoine. Esse louco continua a proferir palavras venenosas de Independência para as tribos Mapuche sob seu autoproclamado Reino de Araucania e Patagônia. Nós, é claro, sabemos que isso não passa de um caso de alguém que talvez precise "pegar o trem" e parar de nos incomodar com tais delírios. Mas os franceses e (especialmente) os Mapuche podem não ficar muito satisfeitos com tal desfecho.;;;;;;;;;;;;;x
+ptg_revolt_early_desc;Ignorar a situação pode não ter sido a decisão mais sensata do governo chileno. Esse repugnante maníaco delirante reuniu apoiadores suficientes para uma revolta declarada, autoproclamando-se Roi d'Araucanie et de Patagonie. Não toleraremos isso. Devemos esmagar essa escória rebelde o mais rápido possível! Santiago não cairá!;;;;;;;;;;;;;x
+araucanie_win_desc;Os bravos esforços de nossas tropas deram resultado! Agora que repelimos os chilenos, temos controle total da Araucania! Longue vie au Roi d'Araucanie et de Patagonie!;;;;;;;;;;;;;x
+chl_araucanie_win_desc;A Araucania não existe mais! Viva Chile!;;;;;;;;;;;;;x
+antoine_begs_FRA_desc;O Chile deportou o autoproclamado Rei Orélie-Antoine de Tounens após a declaração do Reino de Araucania e Patagônia, devolvendo-o à sua nação de origem, a França. Antoine implorou ao Imperador da França ajuda para libertar sua amada nação Araucanie. Devemos aceitar este humilde pedido de Liberdade em nome de um povo oprimido? Ou devemos colocar este louco onde ele pertence? Ou seja, em um manicômio.;;;;;;;;;;;;;x
+fra_prg_free_desc;O Imperador da França exigiu a libertação do Reino de Araucania e do povo Mapuche, impedindo-nos de avançar ao sul do Bio-Bio. No entanto, recusar isso resultaria em uma invasão francesa de nossa pátria.;;;;;;;;;;;;;x
+arg_ptg_fra_desc;Os franceses atacaram nosso vizinho Chile! O que faremos a respeito?;;;;;;;;;;;;;x
+arg_ptg_chl_desc;Os argentinos se juntaram a nós na guerra contra os franceses!;;;;;;;;;;;;;x
+fra_win_no_war_desc;Os chilenos aceitaram nossas exigências e o Reino de Araucania e Patagônia e seu povo estão finalmente livres! Alguns dizem que o Imperador pode querer mais controle direto da terra Araucanie.;;;;;;;;;;;;;x
+fra_puppet_ptg_desc;Viva! Estamos livres enfim! Mas ainda não acabou. O Imperador da França exigiu que nos juntemos a eles como estado satélite.;;;;;;;;;;;;;x
+ptg_fra_refuse_desc;Aqueles Araucanie perderam enfim! Alegrai-vos, ó povo da França!;;;;;;;;;;;;;x
+fra_win_ptg_desc;Perdemos contra a escória francesa...;;;;;;;;;;;;;x
+fra_lose_ptg_desc;Perdemos contra a escória chilena...;;;;;;;;;;;;;x
+ptg_cleanup_title;Obter controle sobre a Patagônia;;;;;;;;;;;;;x
+ptg_cleanup_desc;Agora que estamos livres e apoiados pelos franceses, nada pode nos impedir de adquirir nossa terra de direito!;;;;;;;;;;;;;x
+fra_falklands_ptg_title;Reivindicar as Malvinas e a Geórgia do Sul;;;;;;;;;;;;;x
+fra_falklands_ptg_desc;§RGanhar 1.5 de infâmia§! Agora que a Patagônia é nosso satélite, temos um ponto de partida perfeito para capturar as îles Malouines e a Géorgie du Sud. Elas são, como todos sabemos, legitimamente francesas.;;;;;;;;;;;;;x
+AGRESSION_CUT_DOWN_TO_SIZE_NO_INFAMY_WAR_NAME_FRA_CHL;Libertação da Araucânia;;;;;;;;;;;;;x
+NORMAL_CUT_DOWN_TO_SIZE_NO_INFAMY_WAR_NAME_FRA_CHL;Libertação da Araucânia;;;;;;;;;;;;;x
+rio_branco_colony_desc;Por anos o Forte de São Joaquim esteve abandonado. Se quisermos manter nossas reivindicações em Rio Branco, precisamos reviver tais esforços transformando-o em uma colônia militar. Os países que atualmente reivindicam a região podem não ficar muito satisfeitos com isso.;;;;;;;;;;;;;x
+sao_francisco_transfer_title;A Transposição do Rio São Francisco;;;;;;;;;;;;;x
+sao_francisco_transfer_desc;O rio São Francisco, nascido na província de Minas Gerais, segue para o norte até o semiárido Nordeste do país. Alguns propuseram transpor as águas deste rio para ajudar os cidadãos que vivem na seca Caatinga e em outras áreas semelhantes, pois isso poderia muito bem salvar a população do Nordeste no futuro.;;;;;;;;;;;;;x
+sao_francisco_transposition;Transposição do rio São Francisco;;;;;;;;;;;;;x
+sao_francisco_transposition_desc;As águas do Rio São Francisco agora estão sendo usadas para amenizar as dores da árida Caatinga;;;;;;;;;;;;;x
+paa_win_desc;Após lutar bravamente contra o exército brasileiro, as forças Cabano finalmente impuseram suas exigências. Agora o povo do Pará está livre da opressão Imperial.;;;;;;;;;;;;;x
+paa_brz_win_desc;Os Cabanos foram reprimidos e o Exército Brasileiro reina supremo sobre o Grão-Pará.;;;;;;;;;;;;;x
+peu_brz_treaty_desc;O $MONARCHTITLE$ recebeu recentemente cartas de muitos diplomatas no governo solicitando um possível tratado com o Peru a respeito de seus rios e terras reivindicados, que atualmente estão sob a soberania do Brasil.;;;;;;;;;;;;;x
+peu_brz_treaty_2_desc;O governo brasileiro propôs um tratado para delimitar nossas fronteiras amazônicas. Se assinarmos este tratado, teremos que abrir mão de nossas reivindicações sobre o rio Tabatinga. Nossas relações com o Brasil melhorariam, no entanto.;;;;;;;;;;;;;x
+GUK_desc;Recentemente, uma onda de ucranianos de Odessa se estabeleceu na região outrora conhecida como Grande Manchúria. A imigração ucraniana para o Oblast de Primorskaya ocorre desde 1882, quando transporte gratuito e terras foram prometidos aos cidadãos ucranianos. No entanto, foi somente com a construção de ferrovias na região que o número de colonos aumentou para 14 mil por ano. A parcela ucraniana da população de Primorskaya era de 15%~ em 1897.;;;;;;;;;;;;;x
+rgs_larp_title;Conquistar o sul do Paraná;;;;;;;;;;;;;x
+rgs_larp_desc;Agora que somos livres, devemos libertar nossos irmãos no sul do rio Paraná. Devemos nos reunir com o Uruguai mais uma vez e expandir em direção à região da Mesopotâmia a oeste do rio Paraná!;;;;;;;;;;;;;x
+farrapos_win_desc;Chegamos ao Rio! O Império do Brasil não tem mais poder de barganha contra nós agora. Eles terão que aceitar todas as nossas exigências! Viva a República de Piratini!;;;;;;;;;;;;;x
+sac_rgs_union_desc;Nossos irmãos na República Rio-Grandense nos pediram para nos unirmos a eles em uma confederação de Repúblicas. Devemos aceitar e nos juntar aos nossos libertadores ou seguir nosso próprio caminho?;;;;;;;;;;;;;x
+pedro_americo;A obra "Independência ou Morte", do artista brasileiro Pedro Américo, representa o momento mais conhecido da independência do Brasil, quando o então Príncipe Pedro de Alcântara exclama em alto e bom som: "Independência ou Morte!" perto das margens do Ypiranga. A pintura de Pedro foi revelada pela primeira vez em Florença, Itália. Recebeu muitas críticas positivas, como a publicação no jornal Corriere Italiano: "A nova pintura de Américo é uma obra de arte colossal, a flora e a topografia dos locais exatos foram estudadas e representadas com maestria com todo o seu glamour histórico." Mais tarde, durante a inauguração do Museu Paulista, Américo a trouxe para o Brasil, onde recebeu inúmeras críticas positivas e explodiu em popularidade. E até hoje, é a obra de mídia mais reconhecível em torno da Guerra de Independência do Brasil.;;;;;;;;;;;;;x
+sp_rgs_railway_title;A Ferrovia São Paulo - Rio Grande;;;;;;;;;;;;;x
+sp_rgs_railway_desc;O engenheiro João Teixeira Soares elaborou projetos para uma ferrovia que ligaria a Província de São Paulo à Província do Rio Grande do Sul. A ferrovia teria 1.403 km de extensão e passaria pelo interior de São Paulo em direção ao Rio Grande do Sul, ao lado das províncias de Santa Catharina e Paraná. A ferrovia, se construída, ligaria a cidade do Rio de Janeiro à Argentina e ao Uruguai, permitindo melhor comunicação e transporte de mercadorias do Rio para o resto da Bacia Platina.;;;;;;;;;;;;;x
+contestado_desc;Camponeses da região contestada entre as unidades federativas do Paraná e Santa Catharina iniciaram um conflito armado com os trabalhadores de Percival Farquhar na Ferrovia São Paulo - Rio Grande, camponeses que acreditam que suas terras estão sendo "roubadas" por Percival. Ao lado desses "jagunços", o monge José Maria declarou uma "Monarquia Celestial" independente após proclamar nossa justa República como "A lei do Diabo" e coroar um alfabeto como o Imperador do Brasil.;;;;;;;;;;;;;x
+sp_rgs_railway_event_desc;A Ferrovia São Paulo - Rio Grande está finalmente concluída! O Governo não deve decidir o que fazer com a terra contestada entre as Unidades Federativas do Paraná e Santa Catharina.;;;;;;;;;;;;;x
+contestado_war_title;Guerra do Contestado;;;;;;;;;;;;;x
+contestado_war_desc;Jagunços na área contestada entre o Paraná e Santa Catharina se revoltaram sob a Monarquia Celestial;;;;;;;;;;;;;x
+theatro_amazonas_title;Construir o Theatro Amazonas;;;;;;;;;;;;;x
+theatro_amazonas_desc;O Theatro Amazonas foi um teatro extremamente prestigioso construído em Manaus durante sua Era de Ouro da Borracha. Levando 12 anos para ser construído, o teatro concedeu à crescente capital amazonense o título de "Paris dos Trópicos".;;;;;;;;;;;;;x
+build_brasilia_title;Construir uma nova Capital;;;;;;;;;;;;;x
+1834_additional_act_title;Ato Adicional de 1834;;;;;;;;;;;;;x
+1834_additional_act_desc;A Lei n° 16, também conhecida como "Ato Adicional", reformou a Constituição Imperial de 1824. Após a abdicação de Pedro, a Câmara dos Deputados brasileira rapidamente se preencheu de "Liberais" três anos após a abdicação do então Imperador: Aumentar a autonomia das províncias e abolir a "Regência Trina" em favor de uma Regência Única mais unitária.;;;;;;;;;;;;;x
+abolish_ayan_title;Abolir o Sistema Ayan;;;;;;;;;;;;;x
+abolish_ayan_desc;Os Ayan otomanos, embora ajudem a manter os governadores locais sob controle, continuam a frustrar a liderança central do Império Otomano ao minar o poder de Constantinopla e resistir à autoridade do Sultão. Precisamos fazer tudo o que pudermos para reduzir a força desses senhores locais. §RCausa revolta na Bósnia se tomado antes de 1836§W;;;;;;;;;;;;;x
+abolish_scutari_pashalik_title;Acabar com a Autonomia da Albânia;;;;;;;;;;;;;x
+abolish_scutari_pashalik_desc;O Pashalik de Scutari, um estado semi-independente sob suserania otomana governado pela família Bushati, foi formado pela primeira vez em 1757. Desde então, tem sido frequentemente um espinho em nosso lado, recusando-se a obedecer às ordens do Sultão quando estávamos em dificuldades para impô-las e cooperando quando era conveniente. Os outros dois Pashaliks albaneses de Janina e Berat foram abolidos em 1822 e 1809, respectivamente, encerrando sua autonomia e trazendo-os para o redil. Talvez seja hora de tornar o atual paxá, Mustafa Bushati, o último e pôr fim a esse incômodo.;;;;;;;;;;;;;x
+andrew_jackson_attack_desc;Hoje, o Presidente Andrew Jackson saiu pelo Pórtico Leste do Capitólio Americano após testemunhar o funeral de Warren D. Davis (um representante do Estado da Carolina do Sul). Richard Lawrence emboscou Andrew apontando uma arma de fogo para Jackson e tentando atirar no presidente, que, muito provavelmente devido ao clima úmido, falhou e não matou Jackson. Lawrence tirou uma segunda pistola de seu casaco e tentou assassinar o presidente pela segunda vez, o que também falhou. Enfurecido, o Presidente Andrew Jackson golpeou repetidamente o quase assassino com uma bengala, a ponto de as pessoas no evento terem que conter Jackson, temendo que ele espancasse Richard até a morte. O raciocínio exato por trás da tentativa de Richard é desconhecido, pois Lawrence não parecia estar em seu juízo perfeito, e sem fornecer qualquer razão lógica por trás de suas ações durante os interrogatórios, Lawrence foi enviado ao Hospital do Governo para os Insanos.;;;;;;;;;;;;;x
+garrafada_desc;Pedro estava em uma viagem à província de Minas Gerais para conter o apoio federalista local antes de ser forçado a recuar para a capital imperial. Ele encontrou imensa resistência da população nativista causada por rumores que implicavam que ele fecharia o Congresso e declararia um Golpe de Estado absolutista. Vários comerciantes portugueses aliados a Pedro no Rio se reuniram para planejar uma festa de boas-vindas que saiu pela culatra, pois os brasileiros liberais a perceberam como um "insulto à nação e a tudo o que ela representava". Toda essa indignação fervilhando da população nativista explodiu em violência física na chamada "Noite das Garrafadas".;;;;;;;;;;;;;x
+pedro_i_abdication_desc;Muitos brasileiros questionam as tendências autoritárias de Dom Pedro I e seu "Poder Moderador". Jornais como "Aurora Fluminense" no Rio protestaram contra o Imperador e suas peculiares decisões políticas. A tensão escalou entre os Liberais e os políticos pró-Pedro quando forças aliadas ao Imperador assassinaram Badaró (um jornalista italiano) numa emboscada, causando grande inquietação entre a população Liberal. Dom Pedro tentou conter as equivocações Liberais como as de Minas Gerais causadas por Bernardo Pereira de Vasconcelos. Pedro falhou em reduzir as tensões Liberais em Minas e em outras províncias. Hoje: Pedro dissolveu o antigo ministério e instalou um aliado a ele com dois Ministros portugueses, decisões que desencadearam um protesto no Campo de Aclamação exigindo o retorno dos Ministros anteriores. A sorte de Pedro ataca mais uma vez quando as tropas Imperiais se juntam aos protestos, deixando o então-Imperador sem qualquer apoio do Exército Imperial. A única escolha de Pedro foi abdicar.;;;;;;;;;;;;;x
+pnb_cabanada_desc;A Cabanada foi uma revolta Conservadora nas regiões do Agreste e da Zona da Mata Nordestina que desejava o retorno do Imperador Pedro I ao trono brasileiro, sendo contra a Regência Trina e o Infante Dom Pedro II. A fragilidade política e social causada pela abdicação do Imperador culminou numa Revolução chefiada por senhores de terras locais aliados à sociedade "Coluna do Trono do Altar" em Portugal, que buscava o retorno do agora renunciado Imperador português. Os senhores de terras também cortaram relações com os Engenhos, dando à revolta um caráter antiescravista.;;;;;;;;;;;;;x
+rusga_desc;Desde a independência do Brasil, a política da nação teve duas seitas políticas, uma seita Liberal que buscava maior autonomia para as diversas Províncias e os portugueses remanescentes que defendiam um governo mais centralizado, além de manterem seus privilégios. Após a abdicação de Pedro, o país mergulhou no tumulto à medida que as tensões entre essas duas seitas aumentaram exponencialmente, levando a atos de violência mútuos, como o evento conhecido como "Rusga" em Mato Grosso. Inflamada por sociedades Liberais como a "Sociedade dos Zelosos da Independência" e a "Sociedade Filantrópica", a turba Liberal atacava qualquer cidadão português que encontrava, saqueando suas casas.;;;;;;;;;;;;;x
+fumaca_desc;A Revolta do Ano da Fumaça recebeu esse nome devido a um nevoeiro espesso que se instalou na província de Minas Gerais durante a revolta. A insurreição começou quando um grupo de Caramurus, que são reacionários portugueses, marchou para Ouro Preto, a capital de Minas Gerais. Eles aproveitaram a oportunidade apresentada pela ausência do presidente da província. Os Caramurus receberam significativo apoio popular, incluindo de comerciantes portugueses que estavam insatisfeitos com as ações tomadas pelo governo atual, que consideravam despóticas. O Conselheiro Bernardo Pereira de Vasconcelos liderou um movimento contrarrevolucionário na cidade de São João D'el Rey e levantou um exército de seis mil homens, que retomou Ouro Preto e pôs fim à revolta.;;;;;;;;;;;;;x
+great_bsn_uprising_desc;Após a guerra russo-otomana, o Império Otomano concedeu suserania à Sérvia, enfurecendo a população e os senhores de terras da Bósnia vizinha. Além disso, as recentes reformas de Mahmud II, que implicavam a expansão do Nizam centralizado, os impostos e a burocracia otomana, que enfraqueceram o poder dos governadores bósnios, culminaram numa insurreição liderada por Gradašcevic: sendo declarado Vizir da Bósnia diante da mesquita do Imperador.;;;;;;;;;;;;;x
+pedro_i;Imperador Dom Pedro I;;;;;;;;;;;;;x
+pedro_i_desc;Pedro I encontra-se em desacordo com o povo brasileiro. Muitos acreditam que ele se importa mais com Portugal do que com o Brasil devido ao seu envolvimento na atual Guerra Civil portuguesa. Suas muitas controvérsias causaram inquietação implacável nas terras do Brasil. Talvez sua única opção seja abdicar e navegar pelas costas do Rio e nunca mais voltar.;;;;;;;;;;;;;x
+ayan_system;Sistema Ayan;;;;;;;;;;;;;x
+ayan_system_desc;O Ayan otomano é a classe de nobres locais que gozam de uma quantidade significativa de autonomia.;;;;;;;;;;;;;x
+no_more_janissaries;Fim dos Janízaros;;;;;;;;;;;;;x
+no_more_janissaries_desc;Com a recente eliminação das forças janízaros, nosso exército está em desordem. Quase não temos forças profissionais e poucos comandantes restantes. Embora nossas forças armadas se recuperem com o tempo, por ora estão significativamente enfraquecidas.;;;;;;;;;;;;;x
+build_brasilia_desc;Desde o governo do Marquês do Pombal em Portugal, houve conversas sobre uma nova capital brasileira. O Pai da Independência do Brasil: José Bonifácio foi o primeiro a se referir a esta cidade como "Brasília". Tal nome vem do gentílico formal para os nascidos no Brasil: "Brasiliense". O termo português "Brasileiro" apenas definia aqueles que negociavam ou traficavam o Pau-Brasil nos anos 1500.;;;;;;;;;;;;;x
+brasilia_name_desc;Agora que terminamos de construir a nova capital no interior, precisamos escolher um nome adequado para tão magnífica cidade. Alguns sugerem que a nomeemos em homenagem a uma figura conhecida de nossa história. Enquanto outros mencionam a própria nação como opção, o nome "Brasília" já está na consciência popular, sendo uma referência ao próprio povo.;;;;;;;;;;;;;x
+reform_BRZ_title;Reformar o Brasil;;;;;;;;;;;;;x
+reform_BRZ_desc;Agora que unimos nossa região, chegou a hora de reformar o Brasil!;;;;;;;;;;;;;x
+reform_SWE_title;Reformar a Suécia;;;;;;;;;;;;;x
+reform_SWE_desc;Agora que unimos nossa região, chegou a hora de reformar a Suécia!;;;;;;;;;;;;;x
+reform_RUS_title;Reformar a Rússia;;;;;;;;;;;;;x
+reform_RUS_desc;Agora que unimos nossa região, chegou a hora de reformar a Rússia!;;;;;;;;;;;;;x
+reform_SPA_title;Reformar a Espanha;;;;;;;;;;;;;x
+reform_SPA_desc;Agora que unimos nossa região, chegou a hora de reformar a Espanha!;;;;;;;;;;;;;x
+claim_madeira_title;Reivindicar Tefé;;;;;;;;;;;;;x
+claim_madeira_desc;§RGanhar 1 de infâmia§! Em 1864 o governo peruano assinou um tratado com o Império do Brasil, renunciando às suas reivindicações sobre tudo a oeste do rio Madeira. Devemos revogar este tratado e reivindicar estas terras.;;;;;;;;;;;;;x
+treaty_of_1851_URU_title;O tratado de fronteira Brasil-Uruguai de $YEAR$;;;;;;;;;;;;;x
+treaty_of_1851_URU_desc;Desde o "Convênio Preliminar de Paz" em 1838, quando o Reino Unido desmembrou à força a província da Cisplatina da nação brasileira, não houve consenso sobre onde a fronteira Brasil-Uruguai deveria começar e terminar. Alguns reivindicam a região entre os rios Quaraí e Arapeí como brasileira e parte da província Riograndense, remontando à convenção de 1819. Outros no Uruguai reivindicam a antiga fronteira da Banda Oriental, empurrando o limite do Uruguai até o rio Ibicuí. E há aqueles dentro da jovem república oriental que reivindicam a totalidade do antigo território das Missões. E, é claro, quem poderia esquecer a região dos "Campos Neutrais", a Leste da Lagoa Mirim. Como demonstração de Amizade, enviaremos uma proposta à República Oriental do Uruguai para resolver nossas diferenças e estabelecer a fronteira inconclusa entre os dois países.;;;;;;;;;;;;;x
+uru_brz_treaty_desc;O governo de $FROMCOUNTRY$ propôs um tratado de fronteira para pôr fim a todas as discussões sem sentido entre o povo de $FROMCOUNTRY$ e o do Uruguai. Ratificar este tratado beneficiaria enormemente nossa relação com $FROMCOUNTRY$. Mas, fazê-lo significa abandonar nossas chamadas "ridículas" reivindicações sobre as terras de Misiones e reconhecer os antigos "Campos Neutrais" como $FROMCOUNTRY_ADJ$, entregando assim toda a Lagoa Mirim a $FROMCOUNTRY$. Não ratificar este tratado pode não resultar em uma invasão imediata, mas é muito provável.;;;;;;;;;;;;;x
+uru_brz_accept_desc;O governo de $FROMCOUNTRY_ADJ$ concordou com nosso tratado de fronteira. Eles já começaram a demarcar uma nova fronteira ao longo dos rios Quaraí e Jaguarão.;;;;;;;;;;;;;x
+uru_brz_refuse_desc;O governo de $FROMCOUNTRY_ADJ$ recusou nosso tratado de fronteira! Uma resposta à proposta de S.M. chegou a $CAPITAL$ hoje e deixou todos os ministros do governo chocados com o imenso desrespeito vindo de $FROMCOUNTRY$. Tal arrogância é inaceitável, e trataremos disso como devido. Empurrem a fronteira até Castilhos!;;;;;;;;;;;;;x
+tratado_lleras_lisboa_title;Tratado Lleras-Lisboa;;;;;;;;;;;;;x
+tratado_lleras_lisboa_desc;Portugal e Espanha falharam em definir uma fronteira adequada na Amazônia, e herdamos essas disputas de limites centenárias. Tantos países reivindicam os solos hostis do Inferno Verde, e muitos não reconheceram nossa superioridade e abandonaram suas mesquinhas reivindicações de fronteira. Uma dessas disputas territoriais gira em torno do rio Japurá, conhecido nas nações hispânicas como "Yapurá" ou "Caquetá" (especificamente dentro do antigo território de Nueva Granada). Até quatro países diferentes reivindicam essas terras, incluindo nós. Chegamos a um acordo com duas dessas nações na última década. No entanto, uma delas se recusa a cooperar com nosso governo. Podemos convencê-los a reconhecer nossa posse do Japurá enviando o Barão do Japurá, Miguel Maria Lisboa, e negociando um acordo. Se ainda se recusarem a cooperar, haverá consequências de que talvez não gostem.;;;;;;;;;;;;;x
+lleras_lisboa_desc;$FROMCOUNTRY$ propôs um tratado de limites conosco para resolver a disputa entre nossos países na Amazônia. Aceitar este tratado resultaria em reconhecer a posse de $FROMCOUNTRY_ADJ$ sobre o Rio Negro e partes do rio Caquetá. Em troca, $FROMCOUNTRY$ reconheceria nossas legítimas reivindicações a leste do Apaporis.;;;;;;;;;;;;;x
+lleras_lisboa_refuse_desc;$FROMCOUNTRY$ recusou nosso generoso tratado. A Amazônia permanecerá contestada entre nossas duas nações.;;;;;;;;;;;;;x
+lleras_lisboa_accept_desc;$FROMCOUNTRY$ aceitou nosso tratado! Alegrai-vos, ó povo de $COUNTRY$!;;;;;;;;;;;;;x
+green_hell_explain_desc;No GFM, qualquer terra amazônica e mato-grossense que você (Brasil) possua tem um modificador negativo chamado "O Inferno Verde". Este modificador tem três níveis diferentes:\n§BPrimeiro nível:§! Já presente quando você inicia um novo jogo como Brasil. Contém uma pesada penalidade para atração de imigração (-500%) ao lado de penalidades menores para assimilação (-30%) e eficiência de RGO (-20%). No entanto, aumenta a produção e o rendimento do RGO em 30%.\n§BSegundo nível:§! Desbloqueado com Química Orgânica e Profilaxia contra Malária. Tem penalidades mais fracas para atração de imigração, assimilação e eficiência de RGO. Não aumenta o bônus de produção e rendimento do RGO.\n§BTerceiro nível:§! O último nível é desbloqueado com a decisão "Integrar a Amazônia", que remove as penalidades de imigração, assimilação e eficiência, transformando-as em bônus (20%, 30% e 30%, respectivamente) e também aumentando os bônus de produção e rendimento para 50%.;;;;;;;;;;;;;x
+green_hell_start;Inferno Verde;;;;;;;;;;;;;x
+green_hell_mid;Inferno Verde;;;;;;;;;;;;;x
+green_hell_late;Inferno Verde;;;;;;;;;;;;;x
+green_hell_expand_desc;Recentemente expandimos nossas fronteiras na Amazônia. Elas receberão a integração administrativa necessária para, no futuro, serem incorporadas ao Brasil propriamente dito. Colônias militares estão sendo estabelecidas nas terras recém-adquiridas para manter o controle brasileiro e pacificar os índios selvagens que ainda se espalham pela vasta Floresta Tropical. Em pouco tempo, essas terras serão anexadas às administrações próximas de Mato Grosso, Grão-Pará e Amazonas.;;;;;;;;;;;;;x
+rio_de_oro_buy_desc;Após perder Cuba e as Filipinas, a Espanha tem estado em extrema necessidade de dinheiro. Por isso, perguntaram se compraríamos deles a colônia do Rio do Ouro por 150.000 Talers.;;;;;;;;;;;;;x
+austria_decline_oro_desc;Os austríacos recusaram comprar a região do Rio de Ouro, dizendo que é uma faixa de deserto desolada e inútil.;;;;;;;;;;;;;x
+austria_want_sahara_desc;Os austríacos declinaram comprar a região do Rio de Ouro, oferecendo em vez disso comprar todo o Saara Ocidental pelo mesmo preço.;;;;;;;;;;;;;x
+austria_agree_oro_desc;Os austríacos decidiram comprar o Rio de Ouro.;;;;;;;;;;;;;x
+spanish_refuse_oro_desc;Depois que pedimos para comprar todo o Saara Ocidental da Espanha, eles prontamente recusaram.;;;;;;;;;;;;;x
+spanish_agree_oro_desc;Depois que pedimos para comprar todo o Saara Ocidental da Espanha, eles aceitaram a ideia.;;;;;;;;;;;;;x
+green_hell_mid_event_desc;Com os recentes avanços na tecnologia medicinal, como a profilaxia contra a malária, a floresta amazônica e suas regiões circundantes estão se tornando menos inóspitas. Embora as doenças tropicais ainda percorram todo o Brasil Setentrional, não demorará muito até transformarmos as aldeias e vilas ribeirinhas estéreis em prósperos centros de comércio para o potencial inexplorado da Amazônia e suas muitas riquezas naturais.\nEm outras notícias, as recentes secas e dificuldades no Nordeste também causaram um boom de imigração para a agora mais amigável Amazônia. Embora isso possa ser má notícia para as administrações provinciais de Pernambuco, Ceará e outras províncias nordestinas, é um grande impulso para as regiões do Amazonas e do Grão-Pará.;;;;;;;;;;;;;x
+integrate_amazon_title;Integrar a Amazônia;;;;;;;;;;;;;x
+integrate_amazon_desc;Após centenas de anos de colonização, nosso bravo e justo povo finalmente domou a Amazônia. As doenças tropicais, os índios indomáveis e as inundações tropicais já não representam ameaça ao assentamento e à exploração de suas riquezas. Transformamos o estéril e hostil Inferno Verde em um paraíso tropical comercialmente próspero.;;;;;;;;;;;;;x
+integrate_amz_core_extra_desc;Após expandirmos nosso território na Amazônia, os governos locais de Mato Grosso, Amazonas e Grão-Pará solicitaram a anexação dos territórios recém-adquiridos. Fazê-lo facilitará a administração e a colonização dessas terras para o governo do Brasil.;;;;;;;;;;;;;x
+core_fuerte_olimpo_title;Reivindicar o Fuerte Olimpo;;;;;;;;;;;;;x
+core_fuerte_olimpo_desc;§RGanhar 0,5 de infâmia§! O Fuerte Olimpo é um forte no rio Paraguai fundado pelos espanhóis em 1792 (então conhecido como Fuerte Borbón). Os espanhóis o projetaram para manter os Bandeirantes e exploradores brasileiros afastados, protegendo o Virreinato de Río del La Plata de novas incursões brasileiras. Hoje em dia, o forte existe como um porto livre brasileiro controlado pelo governo do Paraguai.\n\nNo entanto, o governo do Paraguai é volátil, na melhor das hipóteses. Suas políticas protecionistas e isolacionistas dificultam a proteção dos interesses brasileiros no país, especialmente no ainda indomável Gran Chaco. Pode ser melhor assumir o controle direto do porto, protegendo o comércio brasileiro na região a todo custo e expandindo nossa influência no Chaco.;;;;;;;;;;;;;x
+core_prg_chaco_brz_title;Avançar para Bahía Negra;;;;;;;;;;;;;x
+core_prg_chaco_brz_desc;§RGanhar 4,5 de infâmia§! Embora tenhamos assumido o controle direto do Forte Olímpo, outras nações foram mais rápidas em colonizar o Chaco, o que é inaceitável. Faremos saber a essas nações e ao mundo inteiro que as terras do Chaco são brasileiras.;;;;;;;;;;;;;x
+core_chaco_all_title;Reivindicar o Chaco Austral;;;;;;;;;;;;;x
+core_chaco_all_desc;§RGanhar 5 de infâmia§! Estamos a um passo de controlar toda a região do Chaco. Infelizmente, a escória argentina chegou ao Chaco Austral antes de nós. A nação brasileira não aceitará tal arrogância do governo de Buenos Aires, e todo o Chaco logo será nosso.;;;;;;;;;;;;;x
+create_prn_title;A emancipação política do Paraná;;;;;;;;;;;;;x
+create_prn_desc;A autonomia da Comarca de Curityba e Paranaguá, atualmente parte da província de São Paulo, foi levantada muitas vezes desde sua anexação à Capitania de São Vicente. Políticos das cidades de Curityba e Paranaguá questionam o governo central desde 1811, exigindo autonomia do governo de São Paulo. \n\nRecentemente, a província de São Paulo, descontente com a inclinação conservadora do governo, lançou uma revolta armada ao lado da província de Minas Geraes contra o governo do Rio de Janeiro, levando alguns deputados a exigir a emancipação de Curityba e Paranaguá como punição pelas revoltas liberais da década de 1840. Fazer isso, porém, deixaria os líderes políticos de São Paulo e Santa Catharina (esta última com a qual a Comarca disputa terras) bastante irritados conosco.;;;;;;;;;;;;;x
+fra_border_suriname_title;Disputa Franco-Surinamesa;;;;;;;;;;;;;x
+fra_border_suriname_desc;A fronteira entre as duas colônias foi amplamente ignorada ao longo dos séculos XVII e XVIII. Os holandeses tinham reivindicações vagas sobre as regiões a oeste do rio Sinnamary até que o rio Maroni foi decidido como fronteira entre as duas colônias. \n\nRecentemente, colonos do Assentamento do Novo Mundo da Guiana começaram a questionar qual afluente do Maroni deveria constituir a fronteira entre ela e o Suriname. A questão é se os rios Tapanahony ou Lawa devem ser considerados a nascente do Maroni e, portanto, servir como fronteira entre nossas duas colônias. Devemos contatar o governo holandês para formar uma comissão mista franco-holandesa para resolver esta disputa pacificamente.;;;;;;;;;;;;;x
+fra_dispute_suriname_title;Disputar as terras do Tapanahony;;;;;;;;;;;;;x
+fra_dispute_suriname_desc;Uma corrida do ouro atingiu as terras a oeste do afluente Tapanahony no Suriname. Com isso, o governo de Caiena nos contatou, instando o Governo Francês a reivindicar o Tapanahony mais uma vez, reconhecendo-o como a fronteira legítima entre o Suriname e a Guiana. Fazer isso irritaria os Países Baixos e iria contra a fronteira previamente acordada entre nossas colônias, o afluente Lawa, decidida por uma comissão mista franco-holandesa não faz muito tempo.;;;;;;;;;;;;;x
+1830_research_bad;Balanceamento de pesquisa de 1830;;;;;;;;;;;;;x
+rgs_coal_title;Incentivar a mineração de carvão perto do rio Jacuí;;;;;;;;;;;;;x
+rgs_coal_desc;§R(Pagar ou dever 300.000¤)§! \n Industriais influentes em nosso governo acreditam que nossa indústria nacional se tornou demasiadamente dependente do carvão importado. Por isso, empregamos geólogos em uma missão para descobrir depósitos de carvão em nossa nação. Eles retornaram com um mapa detalhando possíveis depósitos de carvão na região próxima ao rio Jacuí. Contudo, atualmente, a região carece da infraestrutura e do financiamento para iniciar as operações de mineração. Caso o governo forneça o dinheiro e a infraestrutura necessários, isso ajudaria nossa indústria a se tornar independente do carvão importado, além de melhorar a economia local.;;;;;;;;;;;;;x
+rumor_rgs_desc;Rumores na província de São Pedro do Rio Grande do Sul espalharam que o Major João Manuel de Lima e Silva planeja uma revolução contra a monarquia brasileira. João é o líder dos mercenários alemães do "Batalhão de Caçadores Alemães". Não seria a primeira vez que mercenários se revoltam contra o governo nacional. Mais de 3.000 mercenários alemães, irlandeses e italianos, comandados por August von Steinhousen e apoiados pela Confederação Argentina, declararam um motim na capital do Rio de Janeiro, durando 3 dias. Não temos evidências concretas do envolvimento de João em um plano para destronar o monarca. Contudo, se não prendermos esses estrangeiros, o apoio à sua suposta causa pode se expandir e alcançar a elite liberal, possivelmente causando uma revolta provincial em larga escala.;;;;;;;;;;;;;
+early_farrapos_desc;Droga! Mercenários alemães comandados pelo Major João Manuel de Lima e Silva surpreenderam as autoridades brasileiras ao invadir a capital de Porto Alegre, proclamando a independente "Riograndensische Republik" e declarando guerra à nação brasileira! Esses patifes se julgam dignos de desafiar nosso magnânimo Imperador com suas falas sobre a doença do "Republicanismo" que assola nossos vizinhos hispânicos. Esses mercenários e seu líder traidor devem ser reprimidos o mais rápido possível!;;;;;;;;;;;;;
+PPG_communist;Comunistas;;;;;;;;;;;;;x
+PPG_fascist;Fascistas;;;;;;;;;;;;;x
+madagascar_purchase_title;Comprar a Ilha de Madagascar;;;;;;;;;;;;;x
+madagascar_purchase_desc;Comprar a Ilha de Madagascar;;;;;;;;;;;;;x
+VTNAME1500000;Compra de Madagascar;;;;;;;;;;;;;
+EVTDESC1500000;O Ministério das Relações Exteriores foi recentemente procurado pelo governo da África do Sul Boer com uma proposta interessante. Os boers, citando nossas relações cordiais e o precedente da Compra da Luisiana, propõem que transfiramos a eles o protetorado sobre Madagascar, em troca de uma grande soma de dinheiro. O Ministério das Relações Exteriores está dividido sobre a questão. Alguns argumentam que o protetorado é um sorvedouro de dinheiro, e que boas relações com o ascendente hegemon regional boer valem mais do que perder a posição estratégica de Madagascar. Outros argumentam que não devemos abrir mão de um centímetro de território francês legítimo, apontando que a Luisiana se tornou um grande trunfo econômico para os americanos com o investimento certo. Uma decisão deve ser tomada agora: o que dizemos aos boers?;;;;;;;;;;;;;
+EVT1500000OPTA;Vender, afinal é um desperdício de dinheiro.;;;;;;;;;;;;;
+EVT1500000OPTB;Sangue francês foi derramado para obter Madagascar. Não abriremos mão dela.;;;;;;;;;;;;;
+EVTNAME1500001;Os Franceses Aceitam!;;;;;;;;;;;;;
+EVTDESC1500001;Madagascar é nossa! O Ministério das Relações Exteriores da França nos informou que seu governo aceitou nossa oferta, e o protetorado será oficialmente transferido para nós. Este é um grande dia para nossa nação! O espírito Voortrekker segue em marcha!;;;;;;;;;;;;;
+EVT1500001OPTA;Querida! Traga minha carroça coberta!;;;;;;;;;;;;;
+EVTNAME1500002;Os Franceses Recusam!;;;;;;;;;;;;;
+EVTDESC1500002;Notícias infelizes vieram do Ministério das Relações Exteriores hoje: os franceses recusaram nossa oferta de comprar Madagascar. Este revés pôs em risco as perspectivas de algum dia estabelecermos nossa própria colônia ultramarina, e alguns falcões de guerra já clamam por... métodos alternativos de aquisição.;;;;;;;;;;;;;
+EVT1500002OPTA;Somos uma nação culturalmente europeia, e teremos colônias próprias, de uma forma ou de outra.;;;;;;;;;;;;;
+UK_reclaim_ireland_title;Reclamar a Irlanda;;;;;;;;;;;;;x
+UK_reclaim_ireland_desc;Desde a União das Coroas, nós, britânicos, temos consciência de que é nosso mandamento divino trazer paz, ordem e justiça a estas ilhas. Mesmo com a Irlanda injustamente separada de nossa nação, e com a humilhação que essa falsa divisão nos trouxe, não esquecemos nosso dever para com os irlandeses. Agora que recuperamos nossas forças, restauremos a União de 1800, pois é o destino da Grã-Bretanha e da Irlanda permanecerem unidas para sempre.;;;;;;;;;;;;;
